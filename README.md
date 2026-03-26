@@ -1,4 +1,4 @@
-# FANet
-This is the official PyTorch implementation of "FANet:Frequency-Aware Degradation-Resilient Fusion for Multimodal Remote Sensing Segmentation"
+# RGSNet
+This is the official PyTorch implementation of "Reliability-guided SAR–Optical segmentation under heterogeneous degradation"
 
 Code will be released upon acceptance.
